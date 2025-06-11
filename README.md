@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React-Job-Listings
 A responsive job board for React developers and employers, built using ReactJS, TailwindCSS, HTML, and JSON. Clean UI for browsing and posting jobs.
 =======
@@ -14,4 +14,4 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> ec0feb7 (Initial Commit on React Job Listing)
+
